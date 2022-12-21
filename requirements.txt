@@ -1,0 +1,12 @@
+certifi
+chardet
+idna
+requests
+selenium
+webdriver-manager
+pexels-api
+fastapi
+uvicorn
+python-multipart
+packaging
+python-dotenv
